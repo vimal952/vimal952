@@ -31,13 +31,6 @@
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/> 
   </a>
 </p>  
-
----
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimal952&layout=compact" alt="Most Used Languages" height="138px" />
-</div>
-
----
 <h2 align = "center"> 📫 Reach me on 📫 </h2>
 <p align = "center"> 
   <a  href = "https://www.linkedin.com/in/vimal-thakur-8637ba2a4/" target = "_blank"> 
